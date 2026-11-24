@@ -1,0 +1,6 @@
+{
+  "appId": "com.dayforge.app",
+  "appName": "DayForge",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
